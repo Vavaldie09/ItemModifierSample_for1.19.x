@@ -4,13 +4,7 @@ ItemModifierのサンプルデタパです
 詳しい使い方はこちらの動画をご参照ください。
  
 https://youtu.be/Ytn9dl77mU4
- 
-# アイテムの出し方
- 
-/loot give @s loot va_gate:melon
- 
-このコマンドでMelonカードが出せます。
- 
+  
 # 【DL方法と導入のやりかた(データパック初心者向け)】 
 ## STEP1
 右上にある緑色の"Code"をクリックして、"Download ZIP"からDL。
